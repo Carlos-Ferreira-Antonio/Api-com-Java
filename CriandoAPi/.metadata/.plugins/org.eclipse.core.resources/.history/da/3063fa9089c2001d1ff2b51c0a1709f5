@@ -1,0 +1,19 @@
+package br.com.criandoapi.projeto;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjetoApplication {
+	public static void main(String[] args) {
+		SpringApplication.run(ProjetoApplication.class, args);
+	}
+}
+@SpringBootApplication
+@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class})
+public class RecommendationEngineWithCassandraApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(RecommendationEngineWithCassandraApplication.class, args);
+    }
+}

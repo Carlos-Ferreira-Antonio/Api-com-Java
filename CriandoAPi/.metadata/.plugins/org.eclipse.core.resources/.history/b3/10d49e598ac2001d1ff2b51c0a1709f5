@@ -1,0 +1,10 @@
+package br.com.criandoapi.projeto;
+
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.jdbc.*;
+import org.springframework.boot.autoconfigure.orm.jpa.*;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
+public class ProjetoApplication {

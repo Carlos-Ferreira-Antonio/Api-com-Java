@@ -1,0 +1,7 @@
+package br.com.criandoapi.projeto;
+
+public @interface EnableAutoConfiguration {
+
+	Class<DataSourceAutoConfiguration> exclude();
+
+}

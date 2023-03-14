@@ -1,0 +1,9 @@
+package br.com.criandoapi.projeto;
+
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+
+public @interface EnableAutoConfiguration {
+
+	Class<DataSourceAutoConfiguration> exclude();
+
+}
