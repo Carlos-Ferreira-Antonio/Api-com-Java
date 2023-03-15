@@ -1207,3 +1207,53 @@
 2023-03-15 10:48:05,749 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-03-15 10:48:05,763 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-15 10:48:05,766 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 15:10:45,177 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-15 15:38:31,461 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-15 15:58:49,984 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 15:58:50,133 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 15:58:50,163 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:07:19,880 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:07:19,916 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:07:19,927 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:11:11,077 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:11:11,146 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:11:11,156 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:12:15,822 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:12:15,833 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:12:15,837 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:27:53,015 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:27:53,028 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:27:53,034 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:30:17,443 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:30:17,455 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:30:17,462 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:32:01,915 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:32:01,926 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:32:01,930 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:36:12,719 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:36:12,731 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:36:12,739 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:40:19,225 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:40:19,277 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:40:19,290 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:44:37,400 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:44:37,413 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:44:37,419 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:48:04,629 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:48:04,655 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:48:04,660 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:49:42,467 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:49:42,509 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:49:42,514 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:51:42,906 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:51:42,927 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:51:42,933 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:53:51,859 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:53:51,872 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:53:51,878 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:58:11,655 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:58:11,665 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:58:11,671 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
+2023-03-15 16:59:40,453 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-15 16:59:40,468 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-15 16:59:40,477 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\carlo\OneDrive\Documentos\CriandoAPiJava\CriandoAPi\projeto\projeto\src\test\resources
